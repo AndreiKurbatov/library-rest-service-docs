@@ -9,7 +9,6 @@
 		The data source is CSV files, separate for each entity.
 	<p>
 	<br>
-	<br>
 	<h2>Business logic descriptions<h2>
 	<br>
 	<h3>Authors<h3>
@@ -26,6 +25,7 @@
 	<p>
 		Each book has a unique isbn. Creating a book with the same isbn or changing the isbn will result in an error.
 	<p>
+	<br>
 	<h3>Book ratings<h3>
 	<p>
 		Each user can leave only one review about a particular book. If a user tries to leave a second review about the same book, it will lead to an error.
